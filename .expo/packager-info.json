@@ -1,0 +1,9 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 52303,
+  "expoServerNgrokUrl": "https://e8-zmh.anonymous.auth.exp.direct",
+  "packagerNgrokUrl": "https://packager.e8-zmh.anonymous.auth.exp.direct",
+  "ngrokPid": 52331
+}
